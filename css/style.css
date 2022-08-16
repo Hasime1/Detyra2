@@ -564,6 +564,7 @@ section.menu {
     background: var(--yellow);
     color: #000;
     border: none;
+    cursor: pointer;
     padding: 10px;
     font-size: 16px;
 }
@@ -789,7 +790,7 @@ section.menu {
 
     /*about*/
     .about .about-content img {
-        width: 500px;
+        width: 600px;
         max-width: 100%;
         height: auto;
         border-radius: 7px;
@@ -815,7 +816,7 @@ section.menu {
     }
 
     .contact .content h1 {
-        font-size: 25px;
+        font-size: 30px;
     }
 
     .contact .content p {
@@ -823,7 +824,7 @@ section.menu {
     }
 
     .contact .content h1 span {
-        font-size: 27px;
+        font-size: 32px;
     }
     /*review*/
         .review {
